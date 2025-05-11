@@ -6,7 +6,7 @@
 OnlyFBADs
 </h1>
 
-While enabled, only FBADs will spawn in sandbox rounds.
+While enabled, only FBADs will spawn in sandbox rounds. Optional toggle to also allow regular BADs.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
 
